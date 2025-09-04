@@ -1,1 +1,1 @@
-[(https://github.com/jadendegeyter/my-website.git)](https://jadendegeyter.github.io/my-website/)
+file:///Users/jaydegeyter/Documents/GitHub/my-website/index.html

@@ -73,9 +73,7 @@ pre {
  * Remove the gray background on active links in IE 10.
  */
 
-a {
-  background-color: rgb(255, 149, 165);
-}
+a {background-color: rgb(255, 149, 165);}
 
 /**
  * 1. Remove the bottom border in Chrome 57-

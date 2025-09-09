@@ -7,8 +7,11 @@ font-weight: bold;
   margin: 16px;
   background-color: rgba(163, 216, 190, 0.531);
 }
-a { text-decoration: none;
-}
+a { text-decoration: none;}
 img {
   width: 200px
+}
+
+img:./* {
+  border-radius: 8px;
 }

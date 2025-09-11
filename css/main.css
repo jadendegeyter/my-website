@@ -7,6 +7,9 @@ body  {
   margin: 16px;
   background-color: #191414;
 }
+body {
+    background-color: hex #191414;
+}
 
 a {
   text-decoration: none;

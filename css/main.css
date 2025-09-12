@@ -5,10 +5,10 @@ body  {
   font-family: system-ui, sans-serif;
   line-height: 1.4;
   margin: 16px;
-  background-color: #0B0F0E;
+  background-color: #1d1c1c;
 
   body {
-      background-color: hex #0B0F0E;
+      background-color: hex #1d1c1c;
     }
 }
 .Subheading {

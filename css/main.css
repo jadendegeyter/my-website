@@ -1,69 +1,51 @@
-<!DOCTYPE html>
-</section>
+/* Place CSS styles here */
+body  { 
+  font-size: 50px;
+  font-weight: bold;
+  font-family: system-ui, sans-serif;
+  line-height: 1.4;
+  margin: 16px;
+  background-color: #1d1c1c;
+<h1>09/2025</h1>
+  <p class="Subheading">These have been on my song rotation.</p>
+  <h1 style="color:#ffffff;">09/2025</h1>
+<p style="color:#ffffff;">This is a paragraph.</p>
 
-<!-- Information / About -->
-<section id="info" class="info">
-<div>
-<h4>NOTES</h4>
-<p>This page is a minimal, index-style log of what I’m listening to—artists, songs, and genres—updated on a rolling basis. Click any tile to open a playlist, album, or track.</p>
-<p>Design-wise, it’s intentionally sparse (monospace, near-black, light borders) to echo research catalogs and record sleeves.</p>
-</div>
-<div>
-<h4>CONTACT</h4>
-<p><a href="mailto:hello@example.com">hello@example.com</a></p>
-<p><a href="#">instagram.com/yourhandle</a></p>
-<p><a href="#">spotify.com/yourprofile</a></p>
-</div>
-<div>
-<h4>RECENT COLLABORATORS</h4>
-<ul>
-<li>JAD PROJECTS</li>
-<li>VIA STUDIO</li>
-<li>PIXEL HOUSE</li>
-<li>AZURE LAB</li>
-<li>GLOW FM</li>
-<li>CLOUD & ANALOG</li>
-</ul>
-</div>
-</section>
 
-<!-- Blog / Lists row -->
-<div class="left" style="margin-bottom:10px"><a class="pill" href="#index"><span>INDEX</span></a><a class="pill" href="#info"><span>INFORMATION</span></a></div>
-<section class="blog-row" aria-label="Reading lists and logs">
-<a class="blog" href="#">
-<span class="t">FOUNDING PRINCIPLES</span>
-<span class="m">10 blocks · Sep 2022</span>
-</a>
-<a class="blog" href="#">
-<span class="t">LISTENING PRACTICE</span>
-<span class="m">30 blocks · Sep 2022</span>
-</a>
-<a class="blog" href="#">
-<span class="t">WRITTEN THEORY</span>
-<span class="m">12 blocks · Nov 2022</span>
-</a>
-<a class="blog" href="#">
-<span class="t">READING LIST</span>
-<span class="m">64 blocks · Nov 2022</span>
-</a>
-<a class="blog" href="#">
-<span class="t">WATCH LIST</span>
-<span class="m">28 blocks · Dec 2022</span>
-</a>
-</section>
+ }}
+ 
+background-color: hex #1d1c1c;
+    }
+}
+.Subheading {
+  font-size: 20px;
+  font-weight: normal;
+  font-family: system-ui, sans-serif;
+  line-height: 1.4;
+  margin: 16px;
+  color: white;
+}
+a {
+  text-decoration: none;
+}
 
-<footer>
-<div class="small">© 2025 YOUR NAME</div>
-<div class="small">Built with HTML + CSS</div>
-</footer>
-</div>
+img {
+  width: 200px
+}
 
-<!-- Optional JS: turn tiles into links or lazy-load images -->
-<script>
-// Example: make placeholder tiles clickable to Spotify links.
-// document.querySelectorAll('.card .thumb').forEach((el, i)=>{
-// el.addEventListener('click', ()=> window.open('https://open.spotify.com/', '_blank'))
-// })
-</script>
-</body>
-</html>
+h1 { 
+  font-size: 50px;
+  text-align: center;
+}
+
+p {
+  font-size: 16px;
+  text-align: left;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 24px;
+  text-align: left;
+
+}

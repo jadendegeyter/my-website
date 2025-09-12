@@ -5,11 +5,10 @@ body  {
   font-family: system-ui, sans-serif;
   line-height: 1.4;
   margin: 16px;
-  background-color: #191414;
+  background-color: #0B0F0E;
 
-body {
-      background-color: hex #191414; /* for contrast */
-      color: white; /* makes all text white */
+  body {
+      background-color: hex #0B0F0E; /* for contrast */
     }
 }
 .Subheading {

@@ -6,11 +6,20 @@ body  {
   line-height: 1.4;
   margin: 16px;
   background-color: #191414;
-}
-body {
-    background-color: hex #191414;
-}
 
+body {
+      background-color: hex #191414; /* for contrast */
+      color: white; /* makes all text white */
+    }
+}
+.Subheading {
+  font-size: 20px;
+  font-weight: normal;
+  font-family: system-ui, sans-serif;
+  line-height: 1.4;
+  margin: 16px;
+  color: white;
+}
 a {
   text-decoration: none;
 }

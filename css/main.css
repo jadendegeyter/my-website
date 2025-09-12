@@ -1,19 +1,16 @@
 /* Place CSS styles here */
-body  {
+body  { 
   font-size: 50px;
   font-weight: bold;
   font-family: system-ui, sans-serif;
   line-height: 1.4;
   margin: 16px;
   background-color: #1d1c1c;
-
-  body {
 <h1>09/2025</h1>
   <p class="Subheading">These have been on my song rotation.</p>
   <h1 style="color:#ffffff;">09/2025</h1>
 <p style="color:#ffffff;">This is a paragraph.</p>
-      
-background-color: hex #1d1c1c;
+ }}
     }
 }
 .Subheading {

@@ -7,8 +7,7 @@ body  {
   margin: 16px;
   background-color: #1d1c1c;
 <h1 style="color:#ffffff;">hello.</h1>
-  <p class="Subheading">These have been on my song rotation.</p>
-  <h1 style="color:#ffffff;">09/2025</h1>
+<h2 style="color:#ffffff;">about me</h2>  
 <p style="color:#ffffff;">This is a paragraph.</p>
 
 
@@ -20,7 +19,7 @@ background-color: hex #1d1c1c;
 .Subheading {
   font-size: 20px;
   font-weight: normal;
-  font-family: Arial, Helvetica, sans-serif, 
+  font-family: Helvetica, Helvetica, sans-serif, Helvetica, sans-serif, 
   line-height: 1.4;
   margin: 16px;
   color: white;

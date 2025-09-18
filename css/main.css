@@ -10,17 +10,9 @@ body  {
   <p style="color:#ffffff;">&nbsp; &nbsp; &nbsp; about me</p>
 
 
-<div><span></span></div></body>
-<h1 style="color:#ffffff;">hello.</h1>
-<p style="color:#ffffff;">&nbsp; &nbsp; &nbsp; about me</p>
-<div><span></span></div>
-
  }
- 
 
-    }
-}
-.Subheading {
+Subheading {
   font-size: 20px;
   font-weight: normal;
   font-family: Helvetica, Helvetica, sans-serif, Helvetica, sans-serif, 
@@ -28,6 +20,7 @@ body  {
   margin: 16px;
   color: white;
 }
+
 a {
   text-decoration: none;
 }

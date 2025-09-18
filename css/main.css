@@ -1,6 +1,9 @@
 /* Place CSS styles here */
 body  { 
 
+container { 
+  padding: 20px; }
+
 <img src="img/cd1.jpg" alt="song one" style="width:200px;height:200px;">
 <img src="img/cd2.jpg" alt="song two" style="width:200px;height:200px;">
 

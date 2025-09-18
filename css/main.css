@@ -1,16 +1,17 @@
 /* Place CSS styles here */
 body  { 
 
-<img src="img/cd1.jpg" alt="song one" style="width:200px;height:200px; border-radius:50%;">
+  <img src="img/cd1.jpg" alt="song one" style="width:200px;height:200px; border-radius:50%;">
 <img src="img/cd2.jpg" alt="song two" style="width:200px;height:200px; border-radius:50%;">
-<img src="img/cd3.jpg" alt="song three" style="width:200px;height:200px; border-radius:50%;">
-
+  background-color: black;
   font-size: 50px;
   font-weight: bold;
   font-family: system-ui, sans-serif;
   line-height: 1.4;
   margin: 16px;
-  background-color: black;
+  color: white;
+} 
+<body style="background-color:black;">
   <h1 style="color:#ffffff;">hello.</h1>
   <h2 style="color:#ffffff;">about me</h2>
  

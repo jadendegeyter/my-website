@@ -23,6 +23,8 @@ background-color: black;
 <body style="background-color:black;">
   <h1 style="color:#ffffff;">hello.</h1>
   <h2 style="color:#ffffff;">about me</h2>
+  <p style="color:#ffffff;">here are some of my favorite songs this month.</p>
+
  
 
   h1 {
@@ -34,8 +36,6 @@ background-color: black;
     margin-inline-end: 0px;
     font-weight: bold;
 }
-
-
 
 
 Subheading {
@@ -81,6 +81,9 @@ h2 {
 
 }
 
-div { max-width: 800px; margin-left: auto; margin-right: auto; } 
-  padding: 20px;
-} 
+<main>
+  <p style="color:#ffffff;">music</p>
+  <div>
+  <p style="color:#ffffff;">i love music. here are some of my favorite albums.</p>
+  </div> 
+</main>

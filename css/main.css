@@ -7,7 +7,7 @@ body  {
   margin: 16px;
   background-color: #1d1c1c;
   <h1 style="color:#ffffff;">hello.</h1>
-   <p style="color:#ffffff;">    about me</p>
+  <h2 style="color:#ffffff;">about me</h2>
 
   h1 {
     display: block;

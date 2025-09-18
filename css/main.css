@@ -1,5 +1,6 @@
 /* Place CSS styles here */
 body  { 
+<img src="images/me.jpg" alt="me" style="width:200px;height:200px;">
   font-size: 50px;
   font-weight: bold;
   font-family: system-ui, sans-serif;
@@ -8,6 +9,7 @@ body  {
   background-color: #1d1c1c;
   <h1 style="color:#ffffff;">hello.</h1>
   <h2 style="color:#ffffff;">about me</h2>
+ 
 
   h1 {
     display: block;
@@ -19,10 +21,6 @@ body  {
     font-weight: bold;
 }
 
- }
-body {
-
-  img src="cd1.jpg" alt="My Image">  }
 
 
 

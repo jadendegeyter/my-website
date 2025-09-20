@@ -22,7 +22,16 @@ background-color: black;
 } 
 <body style="background-color:black;">
   <h1 style="color:#ffffff;">hello.</h1>
-  <h2 style="color:#ffffff;">about me</h2>
+  <h2 
+      style="color:#ffffff;">about me 
+      text-align: center;
+      font-size: 20px;
+      font-weight: normal;
+      font-family: Helvetica, Helvetica, sans-serif, Helvetica, sans-serif, 
+      line-height: 1.4;
+      margin: 16px;
+      color: white;
+  </h2>
   <p style="color:#ffffff;">here are some of my favorite songs this month.</p>
 
  

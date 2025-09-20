@@ -90,9 +90,8 @@ h2 {
 
 }
 
-<main>
-  <p style="color:#ffffff;">music</p>
-  <div>
-  <p style="color:#ffffff;">i love music. here are some of my favorite albums.</p>
-  </div> 
-</main>
+.about-section {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
